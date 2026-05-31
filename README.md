@@ -469,20 +469,4 @@ curl -X POST http://localhost:3000/api/auth/refresh \
 
 ---
 
-## 📚 Learning Resources
 
-- [JWT Best Practices](https://tools.ietf.org/html/rfc8725)
-- [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
-- [Express.js Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
-- [Bcryptjs Documentation](https://github.com/dcodeIO/bcrypt.js)
-
----
-
-## 📧 Support
-
-For questions or issues, please refer to the assignment requirements or consult the API documentation at `/api/info`.
-
----
-
-**Created for MA 216: Web Engineering and AI**
-Faculty of Computing and AI, Air University, Islamabad
